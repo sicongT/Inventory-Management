@@ -1,0 +1,5 @@
+pandas==1.2.4
+openpyxl==3.0.7
+PyQT5==5.15.4
+PyQT5-tools
+sip==6.1.0
